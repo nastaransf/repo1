@@ -1,3 +1,4 @@
+<<<<<<< HEAD
   Commands
    - terminal - goto the location of the folder/project ex. cd repo1
           - git init
@@ -10,3 +11,7 @@
    - git --help
 
 Hey
+=======
+Change 1
+kkkk
+>>>>>>> a54893e0c39c6e95ed9701d9d6ad9bb37608268d
